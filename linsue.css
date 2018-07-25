@@ -14,7 +14,19 @@
   padding-top: 10px;
 }
 hr {
-  width: 80%;
+  width: 100%;
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+article {
+  margin: 40px 0 60px;
+  width: 100%;
+  display: inline-block;
+  font-size: 12px;
 }
 .daily {
   display: flex;
@@ -22,5 +34,12 @@ hr {
   align-items: center;
   flex-direction: column;
 }
-.dreamimg {
+h1 {
+  font-size: 18px;
+}
+.date {
+  font-size: 10px;
+}
+.bt {
+  font-size: 10px;
 }
