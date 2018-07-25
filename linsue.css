@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.headerimg {
+  padding-top: 20px;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  padding-top: 10px;
+}
+hr {
+  width: 80%;
+}
+.daily {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.dreamimg {
+}

@@ -1,2 +1,0 @@
-# linsue
-Created with CodeSandbox
